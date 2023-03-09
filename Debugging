@@ -1,0 +1,4 @@
+one of the key features of Visual Studio Code is its great debugging support.
+VS Code's built-in debugger helps accelerate your edit, compile, and debug loop
+To bring up the Run and Debug view, select the Run and Debug icon in the Activity Bar on the side of VS Code.
+You can also use the keyboard shortcut Ctrl+Shift+D.
